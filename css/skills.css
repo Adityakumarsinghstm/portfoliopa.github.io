@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(156, 172, 172);
+}
+#sech1{
+    background-color:rgb(0, 82, 82);
+    text-align:center;
+    padding: 10px 10px;
+    border-radius:250px;
+    color:aliceblue;
+    box-shadow: 10px 10px 8px rgb(247, 247, 247);
+}
+#section1{
+    
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px; 
+    padding: 10px 50px;
+    background-color: rgb(0, 82, 82);
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    box-shadow:10px 10px 8px rgb(255, 255, 255);
+}
