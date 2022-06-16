@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(156, 172, 172);
+}
+ 
+
+
+#getintouch{
+    float:left;
+    padding: 100px 50px;
+    background-color: rgb(0, 82, 82);
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    box-shadow:10px 10px 8px gray;
+}
+.whats {
+    width: 50px;
+    float: right;
+  }
+  .telegram{
+      width: 50px;
+     float: left;
+  }
+  .formsec{
+      color:white;
+      width: 50vw;
+      height: 80vh;
+      padding:50px 100px;
+    background-color: rgb(0, 82, 82);
+    border-radius: 50px;
+    float:right;
+    box-shadow: 5PX 10PX 8PX gray;
+    
+  }
+  #input{
+      background-color: rgb(40, 62, 62);
+  }
+
+  .button1{
+    background-color:rgb(0, 82, 82); /* Green */
+    border: none;
+    color: white;
+    padding: 15px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 200px;
+  }
