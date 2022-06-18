@@ -31,31 +31,108 @@ nav {
   border-radius: 5rem 0rem 5rem 0rem  ;
   padding: 1rem;
   float:right;
+  margin-top: -6rem;
+  margin-right: 10rem;
   
 }
-nav a {
+ nav a {
   color: rgb(253, 253, 253);
   text-decoration: none;
   padding: 1rem;
-  float:right;
+  float:left;
   
 }
 nav a:hover{
   color:black
-}
-main {
+} 
+ main {
   background-color: rgb(156, 172, 172);
   text-align: center;
   color: aliceblue;
-  padding: 6rem;
+  padding: 100px;
   border-radius: 2rem 0rem;
   
 }
-
+/*
 main p {
   font-size: 1rem;
  
   color: rgb(0, 0, 0);
   
   font-family: "Koulen", cursive;
+} */
+@media only screen and (max-width: 420px) {
+/* heading */
+  header {
+    background-color: rgb(0, 82, 82);
+    padding: 5px;
+    border-radius: 1rem 5rem;
+  }
+  
+  header h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 200%;
+    margin-top: 4rem;
+
+  }
+  .logo {
+    border-radius: 5rem;
+    width: 13%;
+    vertical-align: middle;
+  }
+  .insta {
+    width: 4rem;
+  
+    float: right;
+    margin-right: -7px;
+    margin-top: -7px;
+  } 
+  .linked {
+    width: 4rem;
+    margin-bottom: -1rem;
+    margin-left: -8px;
+ 
+   }
+
+   /* navigetion */
+   nav {
+     
+   
+    border-radius: 2rem 0rem 2rem 0rem  ;
+ margin-right: 150px;
+ margin-top: -100px;
+    float:right;
+    
+  
+    height: 50vh;
+    width: 4rem; 
+   
+   
+    
+  }
+   nav a {
+   float:left;
+   font-size:11px;
+    padding: 1rem;
+    
+  } 
+  #word{
+    background-color: rgb(0, 102, 102);
+  margin-top: -8rem;
+    margin-left:10px;
+    margin-right: -86px;
+    text-align:center;
+
+  }
+
+
+
+
+
+
+
 }
+
+ 
+  
