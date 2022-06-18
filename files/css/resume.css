@@ -5,9 +5,25 @@
     width: 70vw;
     height: 80 vh;
     border-radius: 50px;
-   
+    
+}
+.imgii{
+  display:none;
 }
 h1{
     text-align:center;
     color:aliceblue;
+}
+@media only screen and (max-width: 420px) {
+
+.img{
+    width:95vw;
+   
+}
+.imgii{
+    display:block;
+    width: 80%;
+    margin-top: 20px;
+    border-radius: 10%;
+}
 }
