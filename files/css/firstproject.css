@@ -1,3 +1,4 @@
+
 header {
   background-color: rgb(0, 82, 82);
   padding: 3rem;
@@ -51,8 +52,8 @@ nav a:hover{
   text-align: center;
   color: aliceblue;
   padding: 100px;
-  border-radius: 2rem 0rem;
-  height: 300px;
+  border-radius: 2rem;
+  height: 380px;
   
 }
 main h1{
@@ -62,6 +63,7 @@ main h1{
 
 main p {
   font-size: 1rem;
+  line-height: 300%;
  
 }
 @media only screen and (max-width: 420px) {
@@ -121,11 +123,12 @@ margin-left: -20rem;
   } 
   #word{
     background-color: rgb(0, 102, 102);
-    margin-top: -8rem;
+    margin-top: -136px;
     margin-left:10px;
     margin-right: -86px;
     text-align:center;
     border-radius: 3rem;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
 
   }
  
