@@ -1,0 +1,1 @@
+window.alert("👉Open In Desktop For More Features👈");

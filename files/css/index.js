@@ -1,4 +1,4 @@
-let a=confirm("🙏Thanku For Visiting 🙏")
+let a=confirm("🙏Thanku For Visiting 🙏");
 if(a==1)
 {
     let name=prompt("What is your name ?");
